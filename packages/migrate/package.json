@@ -53,7 +53,7 @@
     "@prisma/debug": "workspace:*",
     "@prisma/get-platform": "3.6.0-3.315e0c53d6d967840d96eed6ee192d88c6ae0906",
     "@sindresorhus/slugify": "1.1.2",
-    "execa": "5.1.1",
+    "execa": "6.0.0",
     "has-yarn": "2.1.0",
     "indent-string": "4.0.0",
     "log-update": "4.0.0",
